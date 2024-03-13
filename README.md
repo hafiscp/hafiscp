@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Hafis CP.
+
+[LinkedIn](https://www.linkedin.com/in/hafiscp/) | [Instagram](https://www.instagram.com/hafis_cp/) | [Hashnode](https://hafiscp.hashnode.dev/)
+
+![](https://komarev.com/ghpvc/?username=hafiscp&style=for-the-badge)
 <!--
 **hafiscp/hafiscp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
