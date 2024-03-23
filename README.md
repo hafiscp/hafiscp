@@ -1,24 +1,20 @@
 <h3 align="center">Hi there 👋</h3>
 
-
-<!--My name is Hafis CP.-->
-
-<!-- [LinkedIn](https://www.linkedin.com/in/hafiscp/) | [Instagram](https://www.instagram.com/hafis_cp/) | [Hashnode](https://hafiscp.hashnode.dev/)-->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafiscp&style=for-the-badge" alt="Profile Views">
 </p>
-<!--
-**hafiscp/hafiscp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://twitter.com/hafiscp">
+      <img src="./assets/x.png" alt="Twitter" />
+    </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/hafiscp/"
+      ><img src="./assets/linkedin.png" alt="LinkedIn"
+    /></a>
+
+<a href="https://www.instagram.com/hafis_cp/">
+      <img src="./assets/insta.svg" alt="Instagram" />
+    </a>
+
+</p>
