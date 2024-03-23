@@ -6,15 +6,12 @@
 
 <p align="center">
 <a href="https://twitter.com/hafiscp">
-      <img src="./assets/x.png" alt="Twitter" />
+      <img src="./assets/Twitter.png" alt="Twitter" height="25px" />
     </a>
-
 <a href="https://www.linkedin.com/in/hafiscp/"
-      ><img src="./assets/linkedin.png" alt="LinkedIn"
+      ><img src="./assets/Linkedin.png" alt="LinkedIn" height="25px"
     /></a>
-
 <a href="https://www.instagram.com/hafis_cp/">
-      <img src="./assets/insta.svg" alt="Instagram" />
+      <img src="./assets/Instagram.png" alt="Instagram" height="25px" />
     </a>
-
 </p>
